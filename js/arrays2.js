@@ -7,7 +7,7 @@ Escribe por pantalla el elemento que ocupa la segunda posición.
 Sustituye el elemento que ocupa la segunda posición por la ciudad de 'Barcelona'*/
 
 
-let ciudades = ['Nueva York', 'Estados Unidos', 'Barcelona', 'España','Tokio', 'Japón', 'Londres', 'Reino Unido', 'Roma', 'Italia', 'Pekín', 'China', 'Río de Janeiro', 'Brasi', 'Ámsterdam','Países Bajos', 'Sídney', 'Australia', 'El Cairo', 'Egipto']
+let ciudades = ['Nueva York', 'Estados Unidos', 'Barcelona', 'España','Tokio', 'Japón', 'Londres', 'Reino Unido', 'Roma', 'Italia', 'Pekín', 'China', 'Río de Janeiro', 'BrasiL', 'Ámsterdam','Países Bajos', 'Sídney', 'Australia', 'El Cairo', 'Egipto']
 
 console.log= parseInt(prompt('Ingrese el nombre de la ciudad'));
 console.log(ciudades);
